@@ -83,7 +83,7 @@
 
   // sidebar: the default operator
   var bob = 13;
-  // if bob is falsy, it will take the right side of the OR
+  // if bob is falsey, it will take the right side of the OR
   var weeks = bob || 52;
   console.log("Bob's weeks = " + weeks);
 
