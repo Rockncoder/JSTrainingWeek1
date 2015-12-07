@@ -1,0 +1,29 @@
+{
+  "name": "jstrainingweek1",
+  "version": "1.0.0",
+  "description": "The JavaScript which goes witht the JS Training Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rockncoder/JSTrainingWeek1.git"
+  },
+  "keywords": [
+    "javascript",
+    "es5",
+    "es6",
+    "closures",
+    "promises"
+  ],
+  "author": "Troy Miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rockncoder/JSTrainingWeek1/issues"
+  },
+  "homepage": "https://github.com/Rockncoder/JSTrainingWeek1#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
